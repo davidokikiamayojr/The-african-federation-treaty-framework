@@ -226,15 +226,6 @@ license: "All Rights Reserved"
 contact:
   - email: "hello@thendegegroup.com"
     name: "The Ndege Group"
----
-
-## PART 5: ADD CONTRIBUTING GUIDELINES
-
-### Step 5: Create CONTRIBUTING.md
-
-1. **Click** the repository name to go back to main page
-2. **Click** **"Add file"** → **"Create new file"**
-3. Filename:
 ```
    CONTRIBUTING.md
 
