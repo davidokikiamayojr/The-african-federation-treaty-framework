@@ -146,8 +146,6 @@ We welcome feedback and suggestions from:
 - Continental integration experts
 - Civil society organisations
 
-Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on our code of conduct and the process for submitting suggestions.
-
 ---
 
 ## 🌍 Regional Coordination Offices
