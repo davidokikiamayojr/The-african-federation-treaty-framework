@@ -196,26 +196,6 @@ P.O. Box 43112-00100, Nairobi, Kenya
 **Last Updated:** 21 November 2025
 
 ---
-
-*"Africa's moment demands machinery, not rhetoric. This Framework provides that machinery."*
-
-**David Okiki Amayo Jr.**  
-Founder & Chairman
-```
-
-5. **Scroll down** to "Commit changes"
-6. Leave the commit message as "Update README.md"
-7. **Click** the green **"Commit changes"** button
-
----
-
-## PART 4: ADD CITATION FILE
-
-### Step 4: Create CITATION.cff
-
-1. **Click** the repository name at the top to go back to the main page
-2. **Click** **"Add file"** → **"Create new file"**
-3. In the filename box, type:
 ```
    CITATION.cff
 
@@ -246,10 +226,6 @@ license: "All Rights Reserved"
 contact:
   - email: "hello@thendegegroup.com"
     name: "The Ndege Group"
-```
-
-5. **Scroll down** and **Click** **"Commit new file"**
-
 ---
 
 ## PART 5: ADD CONTRIBUTING GUIDELINES
@@ -352,122 +328,5 @@ Africa's Sovereign Development Trust®
 Last Updated: 21 November 2025
 ```
 
-5. **Click** **"Commit new file"**
 
----
-
-## PART 6: CREATE DOCS FOLDER AND ADD PDF
-
-### Step 6: Create docs folder
-
-1. **Click** repository name to go to main page
-2. **Click** **"Add file"** → **"Create new file"**
-3. In the filename box, type:
-```
-   docs/.gitkeep
-```
-   (This creates the folder)
-4. **Click** **"Commit new file"**
-
-### Step 7: Upload Your PDF
-
-1. **Click** on the **"docs"** folder (you just created it)
-2. **Click** **"Add file"** → **"Upload files"**
-3. **Click** "choose your files" or drag your PDF
-4. Select your `AFTF_Framework_v1.0.pdf` file
-5. **Click** **"Commit changes"**
-
----
-
-## PART 7: ADD TOPICS TO YOUR REPOSITORY
-
-### Step 8: Add Repository Topics
-
-1. **Click** repository name to go to main page
-2. **Click** the ⚙️ **gear icon** next to "About" (on the right side)
-3. In the "Topics" field, type and add these one by one (press Enter after each):
-```
-   african-integration
-```
-```
-   pan-africanism
-```
-```
-   development-finance
-```
-```
-   continental-sovereignty
-```
-```
-   economic-architecture
-```
-```
-   treaty-framework
-```
-4. **Click** **"Save changes"**
-
----
-
-## PART 8: CREATE YOUR FIRST RELEASE
-
-### Step 9: Create a Release
-
-1. On the main repository page, **click** **"Releases"** (on the right sidebar)
-2. **Click** **"Create a new release"**
-3. **Click** **"Choose a tag"** dropdown
-4. Type:
-```
-   v1.0.0
-```
-5. **Click** **"Create new tag: v1.0.0 on publish"**
-6. **Release title**, type:
-```
    African Federation Treaty Framework v1.0
-```
-7. In the description box, paste:
-```
-   Initial public release of the African Federation Treaty Framework (AFTF)
-
-   This Framework provides operational architecture for continental economic sovereignty, addressing €290 billion in annual fragmentation costs through coordinated financial, security, resource, digital, and trade integration.
-
-   📄 **Published:** 21 November 2025
-   🔗 **DOI:** 10.5281/zenodo.17670880
-   👤 **Author:** David Okiki Amayo Jr., The Ndege Group
-
-   ## Framework Components:
-   - Financial Architecture (€410B Phase 1)
-   - Security Integration (25,000 standing force)
-   - Resource Sovereignty (4-tier mineral classification)
-   - Digital Sovereignty (African cloud infrastructure)
-   - Trade Architecture (Single customs territory)
-
-   For implementation licensing inquiries:
-   📧 chairman@thendegegroup.com
-```
-8. **Click** **"Attach binaries by dropping them here or selecting them"**
-9. Select your PDF file
-10. **Click** the green **"Publish release"** button
-
----
-
-## 🎉 YOU'RE DONE!
-
-Your repository is now complete with:
-- ✅ Professional README
-- ✅ Custom All Rights Reserved license
-- ✅ Citation file for academics
-- ✅ Contributing guidelines
-- ✅ Your Framework PDF
-- ✅ Proper topics/tags
-- ✅ First release (v1.0.0)
-
-### View Your Repository:
-Go to: `https://github.com/davidokikiamayojr/The-african-federation-treaty-framework`
-
----
-
-## Optional: Share Your Repository
-
-You can now share this link:
-```
-https://github.com/davidokikiamayojr/The-african-federation-treaty-framework
