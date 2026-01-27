@@ -1,3 +1,6 @@
+[![DOI](https://img.shields.io/badge/SSRN-6130346-blue.svg)](https://ssrn.com/abstract=6130346)
+[![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.17670879.svg)](https://doi.org/10.5281/zenodo.17670879)
+
 # African Federation Treaty Framework (AFTF)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17670880.svg)](https://doi.org/10.5281/zenodo.17670880)
