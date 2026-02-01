@@ -86,8 +86,6 @@ The tripartite system comprising:
 
 - **[Full Framework PDF v3.1 (51 pages)](./docs/The_African_Federation_Treaty_Framework_v3.1.pdf)** – Direct download from this repository
 - **[Permanent Zenodo Archive](https://doi.org/10.5281/zenodo.18365997)** – Citable version with checksum verification
-- **[Executive Summary](./docs/Executive_Summary.md)** (if uploaded)
-- **[Implementation Timeline](./docs/Implementation_Timeline.md)** (if uploaded)
 
 ---
 
