@@ -108,4 +108,95 @@ If you reference this Framework in academic, policy, or institutional work, plea
   doi       = {10.5281/zenodo.18365997},
   url       = {[https://doi.org/10.5281/zenodo.18365997](https://doi.org/10.5281/zenodo.18365997)}
 }
- **APA Format**   Amayo Jr., D. O. (2026). *The African Federation Treaty Framework (AFTF) v3.1: A Jurisprudential Treatise on Continental Sovereignty and Algorithmic Governance*. The Ndege Group / Africa's Sovereign Development Trust®, Nairobi, Kenya. https://doi.org/10.5281/zenodo.18365997  ---  ## 📜 Licensing & Implementation  **Copyright © 2025–2026 The Ndege Group Nominees Limited. All Rights Reserved.**   © 2025 David Okiki Amayo Jr. (a.k.a. Trevor Mwendwa). All rights reserved worldwide. Copyright registered. Associated Registered Trade Marks (Kenya Industrial Property Institute): OmniGaza® (No. 138985), The Ndege Group® (No. 138986), Africa's Sovereign Development Trust® (No. 138987).  ### Permitted Uses (No Permission Required) - Academic research and scholarly citation - Policy analysis and governmental review - Educational instruction in accredited institutions - Media reporting and journalistic coverage - Personal study and non-commercial reference  ### Prohibited Without Written Permission - Commercial consulting based on Framework methodologies - Creation of derivative works or competing frameworks - Institutional implementation without licensing agreement - Reproduction for commercial distribution - Translation into other languages - Integration into commercial software or platforms  ### Implementation Partnerships & Licensing  For sovereign governments, regional economic communities, development finance institutions, and international organisations:  📧 **General Inquiries:** hello@thendegegroup.com   📧 **Implementation & Licensing:** chairman@thendegegroup.com   🌐 **Website:** www.thendegegroup.com   📞 **Phone:** +254 799 504 111 | +254 110 282 585  ---  ## 🤝 Contributing  See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on technical corrections, data refinements, and legal assessments.  ---  ## 🌍 Regional Coordination Offices  - **North**: Cairo, Egypt - **West**: Abuja, Nigeria - **Central**: Douala, Cameroon - **East**: Nairobi, Kenya - **South**: Johannesburg, South Africa  ---  ## 📅 Presentation History  **Sandton Symposium 2025**   28 November – 3 December 2025   Johannesburg, South Africa   *"Charting Africa's Defence & Sovereign Future"*  ---  ## 🙏 Acknowledgments  This Framework acknowledges intellectual debt to: - Walter Rodney's analysis of African underdevelopment - Thomas Sankara's vision of African self-reliance - Kwame Nkrumah's Pan-African institutional thinking - Contemporary scholarship on development finance, monetary sovereignty, and continental integration  ---  ## 📞 Contact  **The Ndege Group Nominees Limited**   Africa's Sovereign Development Trust®  📍 United Nations Crescent, Gigiri   P.O. Box 43112-00100, Nairobi, Kenya  📧 hello@thendegegroup.com   🌐 www.thendegegroup.com   📞 +254 799 504 111  ---  **Status:** Active Jurisprudential Framework   **Version:** 3.1   **Last Updated:** February 1, 2026
+**APA Format**  
+Amayo Jr., D. O. (2026). *The African Federation Treaty Framework (AFTF) v3.1: A Jurisprudential Treatise on Continental Sovereignty and Algorithmic Governance*. The Ndege Group / Africa's Sovereign Development Trust®, Nairobi, Kenya. https://doi.org/10.5281/zenodo.18365997
+
+---
+
+## 📜 Licensing & Implementation
+
+**Copyright © 2025–2026 The Ndege Group Nominees Limited. All Rights Reserved.**  
+© 2025 David Okiki Amayo Jr. (a.k.a. Trevor Mwendwa). All rights reserved worldwide. Copyright registered.  
+Associated Registered Trade Marks (Kenya Industrial Property Institute):  
+- OmniGaza® (No. 138985)  
+- The Ndege Group® (No. 138986)  
+- Africa's Sovereign Development Trust® (No. 138987)
+
+### Permitted Uses (No Permission Required)
+- Academic research and scholarly citation  
+- Policy analysis and governmental review  
+- Educational instruction in accredited institutions  
+- Media reporting and journalistic coverage  
+- Personal study and non-commercial reference  
+
+### Prohibited Without Written Permission
+- Commercial consulting based on Framework methodologies  
+- Creation of derivative works or competing frameworks  
+- Institutional implementation without licensing agreement  
+- Reproduction for commercial distribution  
+- Translation into other languages  
+- Integration into commercial software or platforms  
+
+### Implementation Partnerships & Licensing
+
+For sovereign governments, regional economic communities, development finance institutions, and international organisations:
+
+📧 **General Inquiries:** hello@thendegegroup.com  
+📧 **Implementation & Licensing:** chairman@thendegegroup.com  
+🌐 **Website:** www.thendegegroup.com  
+📞 **Phone:** +254 799 504 111 | +254 110 282 585
+
+---
+
+## 🤝 Contributing
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on technical corrections, data refinements, legal assessments, and institutional feedback.
+
+---
+
+## 🌍 Regional Coordination Offices
+
+- **North**: Cairo, Egypt  
+- **West**: Abuja, Nigeria  
+- **Central**: Douala, Cameroon  
+- **East**: Nairobi, Kenya  
+- **South**: Johannesburg, South Africa  
+
+---
+
+## 📅 Presentation History
+
+**Sandton Symposium 2025**  
+28 November – 3 December 2025  
+Johannesburg, South Africa  
+*"Charting Africa's Defence & Sovereign Future"*
+
+---
+
+## 🙏 Acknowledgments
+
+This Framework acknowledges intellectual debt to:  
+- Walter Rodney's analysis of African underdevelopment  
+- Thomas Sankara's vision of African self-reliance  
+- Kwame Nkrumah's Pan-African institutional thinking  
+- Contemporary scholarship on development finance, monetary sovereignty, and continental integration  
+
+---
+
+## 📞 Contact
+
+**The Ndege Group Nominees Limited**  
+Africa's Sovereign Development Trust®  
+
+📍 United Nations Crescent, Gigiri  
+P.O. Box 43112-00100, Nairobi, Kenya  
+
+📧 hello@thendegegroup.com  
+🌐 www.thendegegroup.com  
+📞 +254 799 504 111  
+
+---
+
+**Status:** Active Jurisprudential Framework  
+**Version:** 3.1  
+**Last Updated:** February 1, 2026
