@@ -10,7 +10,7 @@
 
 Published: 21 November 2025  
 Author: David Okiki Amayo Jr., The Ndege Group  
-DOI: [10.5281/zenodo.17670880](https://doi.org/10.5281/zenodo.17670880)
+DOI:([https://doi.org/10.5281/zenodo.17670880](https://doi.org/10.5281/zenodo.18365997))
 
 ---
 
