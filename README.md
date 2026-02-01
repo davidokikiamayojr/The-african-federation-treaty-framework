@@ -91,16 +91,26 @@ The tripartite system comprising:
 
 ## 📖 Citation
 
-If you reference this Framework in academic or policy work, please cite:
-
-```bibtex
-[@techreport](https://x.com/techreport){amayo2026aftf,
-  title     = {The African Federation Treaty Framework (AFTF) v3.1: A Jurisprudential Treatise on Continental Sovereignty and Algorithmic Governance},
-  author    = {Amayo Jr., David Okiki},
-  year      = {2026},
-  month     = {January},
-  institution = {The Ndege Group / Africa's Sovereign Development Trust®},
-  address   = {Nairobi, Kenya},
-  doi       = {10.5281/zenodo.18365997},
-  url       = {[https://doi.org/10.5281/zenodo.18365997](https://doi.org/10.5281/zenodo.18365997)}
-}
+"If you use this framework, please cite it as below."
+authors:
+  - family-names: "Amayo Jr."
+    given-names: "David Okiki"
+    affiliation: "The Ndege Group / Africa's Sovereign Development Trust®"
+title: "The African Federation Treaty Framework (AFTF) v3.1: A Jurisprudential Treatise on Continental Sovereignty and Algorithmic Governance"
+version: 3.1
+doi: 10.5281/zenodo.18365997
+date-released: 2026-01-25
+url: "https://github.com/davidokikiamayojr/The-african-federation-treaty-framework"
+repository-code: "https://github.com/davidokikiamayojr/The-african-federation-treaty-framework"
+keywords:
+  - African federation
+  - continental sovereignty
+  - algorithmic governance
+  - OmniGaza
+  - UADF
+  - ASDF
+  - AREMF
+license: "All Rights Reserved"
+contact:
+  - email: "hello@thendegegroup.com"
+    name: "The Ndege Group"
