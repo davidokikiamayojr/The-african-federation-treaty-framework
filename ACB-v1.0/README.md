@@ -1,4 +1,4 @@
-THE AFRICAN CENTRAL BANK (ACB)
+**THE AFRICAN CENTRAL BANK** (ACB)
 
 Institutional Architecture for Continental Monetary Sovereignty & Mineral-Backed Clearing
 
