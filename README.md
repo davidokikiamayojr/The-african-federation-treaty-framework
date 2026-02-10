@@ -29,8 +29,6 @@ It details the transition from legacy fiat-dependency to an asset-backed monetar
   author    = {Amayo Jr., David Okiki},
   year      = {2026},
   doi       = {10.5281/zenodo.18596580}
-}
-
 ##🖋️ Metadata & Authorship
 •  Published: January 25, 2026 (v3.1)
 •  Initial Publication: November 21, 2025
