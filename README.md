@@ -30,13 +30,3 @@ It details the transition from legacy fiat-dependency to an asset-backed monetar
   year      = {2026},
   doi       = {10.5281/zenodo.18596580}
 }
-@techreport{amayo2026aftf,
-  title     = {The African Federation Treaty Framework (AFTF): Jurisprudential Treatise on Continental Sovereignty and Algorithmic Governance},
-  author    = {Amayo Jr., David Okiki},
-  year      = {2026},
-  doi       = {10.5281/zenodo.18365997}
-}
-
-⚖️ Intellectual Property Notice
-© 2025–2026 David Okiki Amayo Jr. All rights reserved.
-Contact: hello@thendegegroup.com
