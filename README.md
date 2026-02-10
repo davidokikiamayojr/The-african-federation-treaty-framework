@@ -1,30 +1,30 @@
 The African Federation Treaty Framework (AFTF)
 Jurisprudential Treatise on Continental Sovereignty and Algorithmic Governance Operational Architecture for Continental Economic Sovereignty
-Published: January 25, 2026 (v3.1)
-Initial Publication: November 21, 2025
-Author: David Okiki Amayo Jr., Founder & Chairman
-The Ndege Group / Africa's Sovereign Development Trust® (ASDT)
-Main DOI: 10.5281/zenodo.18365997
+ * Published: January 25, 2026 (v3.1)
+ * Initial Publication: November 21, 2025
+ * Author: David Okiki Amayo Jr., Founder & Chairman
+ * Organization: The Ndege Group / Africa's Sovereign Development Trust® (ASDT)
+ * Main DOI: 10.5281/zenodo.18365997
 🏛️ Latest Institutional Release
 The African Central Bank (ACB) Technical Treatise v1.0
 Released: February 10, 2026 | DOI: 10.5281/zenodo.18596580
 This 45-page treatise serves as the operative financial blueprint for the African Central Bank, functioning as a primary technical supplement to the AFTF. It details the transition from legacy fiat-dependency to an asset-backed monetary union powered by the OmniGaza® clearing substrate and a $24 Trillion mineral-reserve base.
- * Access ACB Repository Sub-folder
- * Download ACB Treatise PDF (Zenodo Mirror)
+ * 📂 Access ACB Repository Sub-folder
+ * 📄 Download ACB Treatise PDF (Zenodo Mirror)
 About the AFTF
 The African Federation Treaty Framework (AFTF) v3.1 presents a rigorous, executable blueprint to eliminate Africa's systemic fragmentation — an estimated annual opportunity cost exceeding €290 billion — through a self-executing Tripartite System grounded in absolute sovereignty, sovereign finance, unified defence, and algorithmic governance.
-This version elevates the framework from conceptual architecture to a binding jurisprudential treatise. It formally establishes the supremacy of Federation law and introduces foundational new modules:
- * Digital & Cognitive Sovereignty (Art. 8) — Lattice-based cryptography and native synthetic intelligence to immunise African decision-making against external cognitive and digital threats.
- * Commercial & Logistical Anchors (Art. 9) — Northlands (Nairobi) and Mai Mahiu (UADF HQ) as bonded trade facilitation hubs governed by OmniGaza® real-time settlement protocols.
+This version formally establishes the supremacy of Federation law and introduces foundational new modules:
+ * Digital & Cognitive Sovereignty (Art. 8) — Lattice-based cryptography and native synthetic intelligence to immunise African decision-making.
+ * Commercial & Logistical Anchors (Art. 9) — Northlands (Nairobi) and Mai Mahiu (UADF HQ) trade facilitation hubs.
  * Phased Governance Strata (Art. 10.6) — Tiered onboarding (Silver, Gold, Platinum) governed by the Master Sovereign Investment Agreement (MSIA).
- * Jurisdictional Finality (Art. 11–13) — Federation Court with Supremacy Override, ensuring permanent constitutional federation.
-Core Pillars - African Sovereign Development Finance Fund (ASDF) — generational infrastructure capital engine
- * OmniGaza® — sovereign-grade blockchain substrate for algorithmic fidelity, transparency, and instant settlement
- * United African Defence Force (UADF) — unified continental military and intelligence architecture
- * African Rare Earth Mineral Fund (AREMF) — sovereign control and value retention over critical minerals
+ * Jurisdictional Finality (Art. 11–13) — Federation Court with Supremacy Override.
+Core Pillars
+ * African Sovereign Development Finance Fund (ASDF) — Generational infrastructure capital engine.
+ * OmniGaza® — Sovereign-grade blockchain substrate for algorithmic fidelity and instant settlement.
+ * United African Defence Force (UADF) — Unified continental military and intelligence architecture.
+ * African Rare Earth Mineral Fund (AREMF) — Sovereign control and value retention over critical minerals.
 Framework Components (AFTF)
 Part I — Institutional Architecture
-The tripartite system comprising:
  * African Sovereign Development Finance Corporation (ASDFC)
  * United African Defence Force Central Command (UADFCC)
  * Continental Governance Authority (CGA)
@@ -49,24 +49,24 @@ Part V — Digital Sovereignty
  * African Internet Exchange (Cairo)
  * Quantum communication network
 Documentation
- * Full Framework PDF v3.1 (51 pages) Direct download from this repository (mirrors Zenodo upload)
- * Permanent Zenodo Archive (AFTF) Citable version with checksum verification (deposited January 25, 2026)
- * Technical Treatise (ACB) Monetary and clearing architecture (deposited February 10, 2026)
+ * 📕 Full Framework PDF v3.1 (51 pages)
+ * 🌐 Permanent Zenodo Archive (AFTF)
+ * 📊 Technical Treatise (ACB)
 Citation
-If you reference this Framework or the associated Technical Treatises in academic, policy, or institutional work, please cite as follows:
-AFTF v3.1 (BibTeX) ```bibtex
+If you reference this Framework or the associated Technical Treatises, please cite as follows:
+AFTF v3.1 (BibTeX)
 @techreport{amayo2026aftf,
-title     = {The African Federation Treaty Framework (AFTF) v3.1: A Jurisprudential Treatise on Continental Sovereignty and Algorithmic Governance},
-author    = {Amayo Jr., David Okiki},
-year      = {2026},
-month     = {January},
-institution = {The Ndege Group / Africa's Sovereign Development Trust®},
-address   = {Nairobi, Kenya},
-doi       = {10.5281/zenodo.18365997},
-url       = {https://doi.org/10.5281/zenodo.18365997}
+  title     = {The African Federation Treaty Framework (AFTF) v3.1: A Jurisprudential Treatise on Continental Sovereignty and Algorithmic Governance},
+  author    = {Amayo Jr., David Okiki},
+  year      = {2026},
+  month     = {January},
+  institution = {The Ndege Group / Africa's Sovereign Development Trust®},
+  address   = {Nairobi, Kenya},
+  doi       = {10.5281/zenodo.18365997},
+  url       = {[https://doi.org/10.5281/zenodo.18365997](https://doi.org/10.5281/zenodo.18365997)}
 }
 
-**ACB v1.0 (BibTeX)** ```bibtex
+ACB v1.0 (BibTeX)
 @techreport{amayo2026acb,
   title     = {The African Central Bank: Institutional Architecture for Continental Monetary Sovereignty & Mineral-Backed Clearing},
   author    = {Amayo Jr., David Okiki},
