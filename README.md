@@ -30,12 +30,14 @@ It details the transition from legacy fiat-dependency to an asset-backed monetar
   year      = {2026},
   doi       = {10.5281/zenodo.18596580}
 }
-🖋️ Metadata & Authorship
+
+##🖋️ Metadata & Authorship
 •  Published: January 25, 2026 (v3.1)
 •  Initial Publication: November 21, 2025
 •  Author: David Okiki Amayo Jr., Founder & Chairman
 •  Organization: The Ndege Group / Africa’s Sovereign Development Trust® (ASDT)
 •  Main DOI: 10.5281/zenodo.18365997
+
 🌍 About the AFTF
 The African Federation Treaty Framework (AFTF) v3.1 presents a rigorous, executable blueprint to eliminate Africa’s systemic fragmentation.
 Foundational Modules
