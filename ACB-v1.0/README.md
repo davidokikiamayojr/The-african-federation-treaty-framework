@@ -1,8 +1,11 @@
 THE AFRICAN CENTRAL BANK (ACB)
+
 Institutional Architecture for Continental Monetary Sovereignty & Mineral-Backed Clearing
+
 Version: 1.0 (February 2026)
 Parent Repository: The African Federation Treaty Framework (AFTF)
 Permanent DOI: https://doi.org/10.5281/zenodo.18596580
+
 🏛️ Overview
 This technical treatise serves as the financial engine for the African Federation. It details the transition from legacy fiat-dependency to an asset-backed monetary union powered by the OmniGaza® clearing substrate.
 
